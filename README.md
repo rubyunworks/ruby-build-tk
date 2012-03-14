@@ -9,7 +9,7 @@ include build Ruby's Tk extensions.
 First be sure to install ruby-build, then:
 
     $ git clone git://github.com/trans/ruby-build-tk.git
-    $ cd ruby-build
+    $ cd ruby-build-tk
     $ ./install.sh
 
 This will install ruby-build-tk into `/usr/local`. If you do not have
@@ -39,7 +39,7 @@ You can use it with [rbenv](https://github.com/sstephenson/rbenv):
 
 ### Version History
 
-#### 20111207
+#### 2011-12-07
 
  * Initial public release.
 
